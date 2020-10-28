@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JInternalFrameFormInfo">
+  <Properties>
+    <Property name="closable" type="boolean" value="true"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jScrollPane1" min="-2" pref="721" max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" pref="361" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="jLabel1" min="-2" pref="37" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="302" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="24" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="AYUDA SOBRE ITS Y EA"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Arial" size="12" style="0"/>
+            </Property>
+            <Property name="lineWrap" type="boolean" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="true" type="code"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="INFORMACI&#xd3;N QUE PUEDE SER CONSULTADA &#xa;SOBRE INFECCIONES DE TRANSMISI&#xd3;N SEXUAL (ITS)&#xa;&#xa;Organizaci&#xf3;n Mundial de la salud (OMS). Infecciones de transmisi&#xf3;n sexual.&#xa;https://www.who.int/es/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)&#xa;&#xa;Rowley J, Vander Hoorn S, Korenromp E, Low N, Unemo M, Abu-Raddad LJ, et al.  Global and Regional Estimates of the Prevalence and Incidence of Four Curable Sexually Transmitted Infections in 2016. WHO Bulletin.  June 2019.  &#xa;https://www.who.int/bulletin/online_first/BLT.18.228486.pdf&#xa;&#xa;Report on global sexually transmitted infection surveillance, 2018. Geneva: World Health Organization; 2018. Licence: CC BY-NC-SA 3.0 IGO] &#xa;https://www.who.int/reproductivehealth/publications/stis-surveillance-2018/en/&#xa;&#xa;Looker KJ, Magaret AS, Turner KM, Vickerman P, Gottlieb SL ,Newman LM. Global estimates of prevalent and incident herpes simplex virus type 2 infections in 2012. PLoS One. 2015 Jan 21;10(1):e114989 &#xa;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0114989&#xa;&#xa;Worldwide prevalence and genotype distribution of cervical human papillomavirus DNA in women with normal cytology: a meta-analysis.&#xa;de Sanjos&#xe9; S, Diaz M, Castellsagu&#xe9; X, Clifford G, Bruni L, Mu&#xf1;oz N, et al. Lancet Infect Dis. 2007 Jul;7(7):453-9&#xa;https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(07)70158-5/fulltext&#xa;&#xa;&#xa;INFORMACI&#xd3;N QUE PUEDE SER CONSULTADA &#xa;SOBRE EMBARAZOS EN ADOLECENTES&#xa;&#xa;Organizaci&#xf3;n Mundial de la Salud (OMS), El embarazo en la adolescencia. &#xa;https://www.who.int/es/news-room/fact-sheets/detail/adolescent-pregnancy&#xa;&#xa;Organizaci&#xf3;n Mundial de la Salud (OMS), Salud Sexual y Reproductiva.&#xa;https://www.who.int/reproductivehealth/es/&#xa;&#xa;Organizaci&#xf3;n Mundial de la Salud (OMS), Salud de la madre, el reci&#xe9;n nacido, del ni&#xf1;o y del adolescente. &#xa;https://www.who.int/maternal_child_adolescent/topics/adolescence/es/&#xa;&#xa;Organizaci&#xf3;n Mundial de la Salud (OMS), Embarazo en adolescentes: un problema culturalmente complejo. &#xa;https://www.who.int/bulletin/volumes/87/6/09-020609/es/&#xa;&#xa;Organizaci&#xf3;n Mundial de la Salud (OMS). Prevenir el embarazo precoz y los resultados reproductivos adversos en adolescentes en los pa&#xed;ses en desarrollo: las evidencias. &#xa;https://www.who.int/maternal_child_adolescent/documents/preventing_early_pregnancy/es/&#xa;"/>
+            <Property name="autoscrolls" type="boolean" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="false" type="code"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
